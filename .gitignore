@@ -1,0 +1,12 @@
+# Eclipse / STS
+.settings/
+.classpath
+.project
+.metadata/
+
+# Maven
+target/
+
+# OS
+.DS_Store
+Thumbs.db
