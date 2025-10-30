@@ -100,10 +100,7 @@
   <img width="2554" height="1367" alt="image" src="https://github.com/user-attachments/assets/ea12be3a-f0a6-4104-9492-2284256241eb" />
 
 - **十万次调用结果**
-  ![Markdown](https://s1.ax1x.com/2018/07/06/PZM3N9.png)
-
-- **一百万次调用结果**
-  ![Markdown](https://s1.ax1x.com/2018/07/06/PZMY1x.png)
+<img width="2534" height="1407" alt="image" src="https://github.com/user-attachments/assets/c7bba879-99d4-4d04-850b-68a216312a89" />
 
 
 
